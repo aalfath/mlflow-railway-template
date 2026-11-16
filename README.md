@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mlflow-1?utm_medium=integration&utm_source=button&utm_campaign=mlflow)
+
 # MLflow on Railway
 
 Railway template for the [MLflow](https://mlflow.org) tracking server: experiments, runs, metrics, artifacts, the model registry and GenAI tracing, behind MLflow's built-in login.

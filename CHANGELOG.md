@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.18.0, README (2026-11-16)
+
+- README: Deploy on Railway button for the published template `mlflow-1`. No change to the image or start script.
+
 ## 3.18.0 (2026-11-16)
 
 First repo-based version of the `mlflow-1` template, replacing the image service that ran MLflow 3.16.1.
